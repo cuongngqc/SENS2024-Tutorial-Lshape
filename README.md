@@ -1,3 +1,3 @@
-# SENS2024-Tutorial-Lshape
-## Slides for tutorial
-## Examples for lpls, lpls uing Y-averages, TSP-SOPLS
+# SENS2024
+## Sensometric tutorial: slides and examples for lpls, lpls uing Y-averages, TSP-SOPLS
+## Presentations: oral, poster
